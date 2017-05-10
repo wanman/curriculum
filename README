@@ -1,73 +1,18 @@
-/*
- * SHORT DESCRIPTION
- */
-
-Here is structure, description and materials for all topics I am currently thoroughly interested in.
-ALERT: this file is different from TODO, which stored short-term actual information.
-
-/*
- * STRATEGY
- */
-
-// additional information:
-// + represents full accomplishing;
-// ~ represents learning in parallel
-
-* repeating of the school program in following subjects:
-	~ mathematics:
-		~ algebra;
-		~ geometry;
-	~ physics;
-	~ chemistry;
-	~ biology (mostly genetics);
-	~ history;
-	~ english language;
-	~ additional;
-* accomplishing Scanavi tasks;
-* learning & repeating of the discrete mathematics;
-* Tanenbaum materials:
-	* structured computer organization;
-	* modern operating systems;
-	* computer networking;
-	* parallel and distributed systems;
-* K&R C language;
-* x86 assembly language;
-* operating systems:
-	* xv6, UNIX v6, System V, BSD;
-	* writing my own one.
-In parallel with:
-~ chess;
-~ philosophy;
-~ anarchism;
-~ my project:
-	* the concept;
-	* map-writing software;
-	* fabula etc.;
-~ English language:
-	~ grammar;
-	~ lexicon;
-	~ verbal interpretation;
-~ jekyll;
-~ GRE;
-~ UNIX environment:
-	~ Gentoo Linux;
-	~ shell script;
-	~ BSD;
-	~ Vim/Emacs;
-~ TeX typesetting system.
-
-/*
- * UNIVERSITY COURSES
- */
-
-I also must finish some courses from top universities:
-* MIT: https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/;
-* Berkeley: http://inst.eecs.berkeley.edu/classes-eecs.html?_ga=1.189091115.1408716772.1476205445;
-* Stanford: http://exploredegrees.stanford.edu/schoolofengineering/computerscience/#courseinventory;
-* CMU: http://coursecatalog.web.cmu.edu/schoolofcomputerscience/courses/.
-
-Additional materials from the web:
-* Saylor Academy online courses: https://learn.saylor.org/course/index.php?categoryid=9.
+List of covered topics (very briefly):
+* computer science:
+	- CPU design;
+	- operating system design;
+	- other;
+* natural sciences (physics, chemistry, biology);
+* mathematics;
+* philosophy;
+* history;
+* anarchism;
+* linguistics;
+* fantasy & sci-fi;
+* socionics;
+* chess;
+* other.
 
 ~~~~~~~~~~~~~~~
-sng, 04.05.2017
+sng, 10.05.2017
