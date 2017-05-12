@@ -1,10 +1,11 @@
-* статьи (TeX, eng):
-- математические таблицы (тренировка формул LateX);
-- статья про фантастику, мой проект;
-- анализ загрузки ядра и программ, детальный разбор; //BIG
-- анализ расширения стеков и динамической памяти, детальный разбор; //BIG
-- анализ своппинга, детальный разбор; //BIG, не реализовано
-- анализ двоичного дампа ФС на диске, детальный разбор; //BIG
-- анализ структур данных на платформах Linux/BSD/ygg/Windows; //BIG + tools;
-* gpa; //КТУ
-* письмо Смолянскому; //КТУ
+* articles (TeX), eng:
+- math tables;
+- fantasy & sci-fi;
+- analysis of kernel & init loading, in details; //BIG
+- analysis of stack and heap growth, in details; //BIG
+- analysis of hex dump of FS on disk, in details; //BIG
+- analysis of data structures lib on Linux/Windows/BSD/ygg,
+  in details;                            //BIG + tools
+- analysis of swapping, in details;  //BIG, not implemented
+* gpa; //KTU
+* letters from ps; //KTU
