@@ -1,7 +1,13 @@
 * math (school, discrete, Scanavi);
 * articles (TeX), eng:
+- software for UNIX, UNIX philosophy:
+	+ classic CLI software (utilities);
+	+ GUI software (X*, zathura, etc.);
+	+ suckless;
+	+ Vi;
+- bottom-up Computer Science;
 - math tables;
-- fantasy & sci-fi;
+- fantasy & sci-fi (see project);
 - analysis of kernel & init loading, in details; //BIG
 - analysis of stack and heap growth, in details; //BIG
 - analysis of hex dump of FS on disk, in details; //BIG
