@@ -2,19 +2,19 @@
 * trousers;
 * math (school, discrete, Scanavi);
 * articles (TeX), eng:
-- software for UNIX, UNIX philosophy:
-	+ classic CLI software (utilities);
-	+ GUI software (X*, zathura, etc.);
-	+ suckless;
-	+ Vi;
-- bottom-up Computer Science;
-- math tables;
-- fantasy & sci-fi (see project);
-- analysis of kernel & init loading, in details; //BIG
-- analysis of stack and heap growth, in details; //BIG
-- analysis of hex dump of FS on disk, in details; //BIG
-- analysis of data structures lib on Linux/Windows/BSD/ygg,
-  in details;                            //BIG + tools
-- analysis of swapping, in details;  //BIG, not implemented
+	- software for UNIX, UNIX philosophy:
+		+ classic CLI software (utilities);
+		+ GUI software (X*, zathura, etc.);
+		+ suckless;
+		+ Vi;
+	- bottom-up Computer Science;
+	- math tables;
+	- fantasy & sci-fi (see project);
+	- analysis of kernel & init loading, in details; //BIG
+	- analysis of stack and heap growth, in details; //BIG
+	- analysis of hex dump of FS on disk, in details; //BIG
+	- analysis of data structures lib on Linux/Windows/BSD/ygg,
+  		in details;                            //BIG + tools
+	- analysis of swapping, in details;  //BIG, not implemented
 * gpa; //KTU
 * letters from ps; //KTU
