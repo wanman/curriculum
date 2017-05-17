@@ -1,6 +1,7 @@
 * list of programs;
 * math (school, discrete, Scanavi);
 * articles (TeX), eng:
+	- regexps;
 	- software for UNIX, UNIX philosophy:
 		+ classic CLI software (utilities);
 		+ GUI software (X*, zathura, etc.);
