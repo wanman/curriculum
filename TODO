@@ -1,14 +1,12 @@
 * list of programs;
 * math (school, discrete, Scanavi);
 * articles (TeX), eng:
-	- regexps;
 	- software for UNIX, UNIX philosophy:
 		+ classic CLI software (utilities);
 		+ GUI software (X*, zathura, etc.);
 		+ suckless;
 		+ Vi;
 	- bottom-up Computer Science;
-	- math tables;
 	- fantasy & sci-fi (see project);
 	- analysis of kernel & init loading, in details; //BIG
 	- analysis of stack and heap growth, in details; //BIG
