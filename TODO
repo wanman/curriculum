@@ -5,12 +5,11 @@
 	- Algorithms -- Rod Stevens;
 	- Architecture -- Tanenbaum, x86 asm (Blum, etc.), x86 docs;
 	- Operating Systems -- Tanenbaum, Vahalia, Robach., Silber.;
-	- C programming -- K&R, C under UNIX, Expert C, C in XXI, soviet, libc, S&R;
+	- C programming -- C under UNIX, Expert C, C in XXI, soviet, libc, S&R;
 	- UNIX kernel -- Tanenbaum, Bach, xv6;
 	- Networking -- Tanenbaum, TCP/IP illustrated;
 	- P&DS -- Tanenbaum;
 * articles and notes (TeX), eng:
-	- implementing all K&R;
 	- implementing regex unix utilities (grep, sed, awk),
 		analysis under Linux/BSD/OS X/ygg;
 	- implementing UNIX shell, analysis under Linux/BSD/OS X/ygg;
