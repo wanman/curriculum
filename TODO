@@ -1,6 +1,6 @@
 * books to read:
 	- English -- Petrova, TOEFL;
-	- Math -- Anderson, Pure Maths;
+	- Math -- Pure Maths;
 	- UNIX -- Blum, Tools, K&P, etc.;
 	- Algorithms -- Rod Stevens;
 	- Architecture -- Tanenbaum, x86 asm (Blum, etc.), x86 docs;
@@ -12,7 +12,6 @@
 * articles and notes (TeX), eng:
 	- implementing generic data structures library in C;
 	- implementing a text editor in C:
-	- implementing a Haffman encoder/decoder;
 	- implementing regex unix utilities (grep, sed, awk),
 		analysis under Linux/BSD/OS X/ygg;
 	- implementing UNIX shell, analysis under Linux/BSD/OS X/ygg;
