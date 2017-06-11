@@ -10,7 +10,6 @@
 	- Networking -- Tanenbaum, TCP/IP illustrated;
 	- P&DS -- Tanenbaum;
 * articles and notes (TeX), eng:
-	- implementing generic data structures library in C;
 	- implementing a text editor in C:
 	- implementing regex unix utilities (grep, sed, awk),
 		analysis under Linux/BSD/OS X/ygg;
