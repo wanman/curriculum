@@ -2,7 +2,7 @@
 	- English -- Petrova, TOEFL;
 	- Math -- Pure Maths;
 	- UNIX -- Blum, Tools, K&P, etc.;
-	- Architecture -- Tanenbaum, x86 asm (Blum, etc.), x86 docs;
+	- Architecture -- x86 asm (Blum, etc.), x86 docs;
 	- Operating Systems -- Tanenbaum, Vahalia, Robach., Silber.;
 	- C programming -- C under UNIX, Expert C, C in XXI, soviet, libc, S&R;
 	- UNIX kernel -- Tanenbaum, Bach, xv6;
@@ -26,6 +26,7 @@
 	- analysis of kernel & init loading, in details; //BIG
 	- analysis of stack and heap growth, in details; //BIG
 	- analysis of hex dump of FS on disk, in details; //BIG
+	- AVL trees;
 	- analysis of data structures lib on Linux/Windows/BSD/OS X/ygg,
   		in details;                            //BIG + tools
 	- analysis of swapping, in details;  //BIG, not implemented
