@@ -26,7 +26,6 @@
 	- analysis of kernel & init loading, in details; //BIG
 	- analysis of stack and heap growth, in details; //BIG
 	- analysis of hex dump of FS on disk, in details; //BIG
-	- AVL trees;
 	- analysis of data structures lib on Linux/Windows/BSD/OS X/ygg,
   		in details;                            //BIG + tools
 	- analysis of swapping, in details;  //BIG, not implemented
